@@ -25,11 +25,7 @@
 
 ![image](https://github.com/yt09143681/SRS/blob/master/img/SRST-8.JPG)
 
-测试
 
-![image](https://github.com/yt09143681/SRS/blob/master/img/SRS-43.JPG)
-
-![image](https://github.com/yt09143681/SRS/blob/master/img/SRS-44.JPG)
 
 ![image](https://github.com/yt09143681/SRS/blob/master/img/SRS-1.JPG)
 
@@ -73,3 +69,9 @@
 ![image](https://github.com/yt09143681/SRS/blob/master/img/SRS-27.JPG)
 
 ![image](https://github.com/yt09143681/SRS/blob/master/img/SRS-34.JPG)
+
+测试
+
+![image](https://github.com/yt09143681/SRS/blob/master/img/SRS-43.JPG)
+
+![image](https://github.com/yt09143681/SRS/blob/master/img/SRS-44.JPG)
