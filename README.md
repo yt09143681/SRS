@@ -1,11 +1,15 @@
 # SRS
+类图：
+
 ![image](https://github.com/yt09143681/SRS/blob/master/img/classdiagram.JPG)
+
+时序图
 
 ![image](https://github.com/yt09143681/SRS/blob/master/img/studentsequence.JPG)
 
 ![image](https://github.com/yt09143681/SRS/blob/master/img/professorsequence.JPG)
-![image](https://github.com/yt09143681/SRS/blob/master/img/system.JPG)
 
+界面图
 
 ![image](https://github.com/yt09143681/SRS/blob/master/img/SRST-1.JPG)
 
@@ -17,11 +21,11 @@
 
 ![image](https://github.com/yt09143681/SRS/blob/master/img/SRST-5.JPG)
 
-![image](https://github.com/yt09143681/SRS/blob/master/img/SRST-6.JPG)
-
 ![image](https://github.com/yt09143681/SRS/blob/master/img/SRST-7.JPG)
 
 ![image](https://github.com/yt09143681/SRS/blob/master/img/SRST-8.JPG)
+
+测试
 
 ![image](https://github.com/yt09143681/SRS/blob/master/img/SRS-43.JPG)
 
